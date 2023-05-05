@@ -1,9 +1,9 @@
 ### 我是苏不轼 👋
 
-· 👀 擅长的是运维和自动化
-· 🌱 喜欢交流技术和搭建各种有趣的项目
-· 💞 如果有机会那一定是跟着大家学习，爬上更高的层次
-· 📫 感谢大家的关注
+- 👀 擅长的是运维和自动化
+- 🌱 喜欢交流技术和搭建各种有趣的项目
+- 💞 如果有机会那一定是跟着大家学习，爬上更高的层次
+- 📫 感谢大家的关注
 
 <!--
 **subushi/subushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
