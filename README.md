@@ -1,4 +1,5 @@
-### Hi there 👋
+### 我是苏不轼 👋
+👀 擅长的是运维和自动化
 
 <!--
 **subushi/subushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
