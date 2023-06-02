@@ -1,9 +1,11 @@
-### 我是苏不轼 👋
+### I am Su Bushi 👋
 -------------------------------
-- 🔭 主要方向是云原生和自动化运维
-- ⚡ 喜欢交流技术和搭建各种有趣的项目
-- 😄 如果有机会那一定是跟着大家学习，上升到更高的一个层次
-- 📫 感谢大家的关注
+### Is an Operation and Maintenance Engineer
+
+- 🔭 The main direction is cloud native and automated operation and maintenance
+- ⚡ Likes to communicate technology and build various interesting projects
+- 😄 If there is a chance, it must be learning from everyone and rising to a higher level
+- 📫 Thank you for your attention
 
 <!--
 **subushi/subushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
